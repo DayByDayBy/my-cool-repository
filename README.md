@@ -1,12 +1,16 @@
-# my-cool-repository
+ my-cool-repository
  demo repo
 
-This is really neat, etc
+ This is really neat, etc
 
-cool
+ cool
 
-dope
+ dope
 
 
-fly
+ fly
+
+
+i am exercising my writes
+
 
